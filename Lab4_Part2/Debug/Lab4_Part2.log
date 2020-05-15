@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Lab4_Part2.cpp
+D:\Projects\Lab4\Lab4_Part2\Lab4_Part2.cpp(95,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab4_Part2.vcxproj -> D:\Projects\Lab4\Debug\Lab4_Part2.exe
