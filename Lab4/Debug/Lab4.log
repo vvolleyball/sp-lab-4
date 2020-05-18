@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  Lab4.cpp
-D:\Projects\Lab4\Lab4\Lab4.cpp(160,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
-  Lab4.vcxproj -> D:\Projects\Lab4\Debug\Lab4.exe
